@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41452ec3-bb37-4273-a0e5-14da9a465e72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/simples/ejercicio09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simples/ejercicio10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,10 +15,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/simples/ejercicio06.py">
+        <entry file="file://$PROJECT_DIR$/simples/ejercicio09.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simples/ejercicio10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -50,6 +61,11 @@
         <option value="$PROJECT_DIR$/simples/ejercicio04.py" />
         <option value="$PROJECT_DIR$/simples/ejercicio05.py" />
         <option value="$PROJECT_DIR$/simples/ejercicio06.py" />
+        <option value="$PROJECT_DIR$/simples/ejercicio07.py" />
+        <option value="$PROJECT_DIR$/simples/ejercicio08.py" />
+        <option value="$PROJECT_DIR$/simples/ejerci.py" />
+        <option value="$PROJECT_DIR$/simples/ejercicio10.py" />
+        <option value="$PROJECT_DIR$/simples/ejercicio09.py" />
       </list>
     </option>
   </component>
@@ -89,7 +105,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="G:/Programacion/trabajo06/t06.aguilar.arroyo/aguilar/simples/ejercicio08.py" />
+    <property name="last_opened_file_path" value="G:/Programacion/trabajo06/t06.aguilar.arroyo/aguilar/simples/ejercicio10.py" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -140,8 +156,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="20" width="1400" height="990" extended-state="1" />
-    <editor active="true" />
+    <frame x="260" y="20" width="1400" height="990" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -221,7 +236,9 @@
     <MESSAGE value="se agrego el archivo numero 4 de condicional simple" />
     <MESSAGE value="se agrego el quinto ejercicio de condicional simple" />
     <MESSAGE value="se agrego el ejercicio numero 06" />
-    <option name="LAST_COMMIT_MESSAGE" value="se agrego el ejercicio numero 06" />
+    <MESSAGE value="se agrego el ejercicio 07 de condicional simple" />
+    <MESSAGE value="se agrego el ejercicio 8 de condicional simple" />
+    <option name="LAST_COMMIT_MESSAGE" value="se agrego el ejercicio 8 de condicional simple" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://G:/Programacion/trabajo06/t06.aguilar.arroyo/aguilar/simples/ejercicio01.py">
@@ -301,6 +318,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Programacion/trabajo06/t06.aguilar.arroyo/aguilar/simples/ejercicio07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Programacion/trabajo06/t06.aguilar.arroyo/aguilar/simples/ejercicio08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simples/ejercicio09.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simples/ejercicio07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simples/ejercicio08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Programacion/trabajo06/t06.aguilar.arroyo/aguilar/simples/ejercicio10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simples/ejercicio10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Programacion/trabajo06/t06.aguilar.arroyo/aguilar/simples/ejercicio09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simples/ejercicio09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
         </state>
       </provider>
     </entry>
