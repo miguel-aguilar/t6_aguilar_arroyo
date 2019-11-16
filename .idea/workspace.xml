@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41452ec3-bb37-4273-a0e5-14da9a465e72" name="Default Changelist" comment="" />
+    <list default="true" id="41452ec3-bb37-4273-a0e5-14da9a465e72" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dobles/ejercicio12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="476">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -24,6 +26,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
               <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dobles/ejercicio13.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -65,6 +76,7 @@
         <option value="G:/Programacion/trabajo06/t06.aguilar.arroyo/aguilar/dobles/ejercicio11.py" />
         <option value="$PROJECT_DIR$/dobles/ejercicio11.py" />
         <option value="$PROJECT_DIR$/dobles/ejercicio12.py" />
+        <option value="$PROJECT_DIR$/dobles/ejercicio13.py" />
       </list>
     </option>
   </component>
@@ -109,7 +121,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="G:/Programacion/trabajo06/t06.aguilar.arroyo/aguilar/dobles/ejercicio12.py" />
+    <property name="last_opened_file_path" value="G:/Programacion/trabajo06/t06.aguilar.arroyo/aguilar/dobles/ejercicio13.py" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -160,16 +172,10 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="20" width="1400" height="990" extended-state="0" />
-    <editor active="true" />
+    <frame x="260" y="20" width="1400" height="990" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" />
-      <window_info active="true" anchor="bottom" x="279" y="369" width="1362" height="291" id="Version Control" visible="true" weight="0.32844242" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3295711" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3295711" />
-      <window_info anchor="bottom" id="Python Console" weight="0.3295711" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3295711" />
@@ -177,6 +183,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" x="279" y="369" width="1362" height="291" id="Version Control" order="7" visible="true" weight="0.32844242" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295711" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3295711" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3295711" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -232,6 +243,20 @@
         <option value="1" />
       </set>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="se agrego el ejercicio 1" />
@@ -248,7 +273,8 @@
     <MESSAGE value="se agrego el ejercicio 12 de condicional simple" />
     <MESSAGE value="se agrego el ejercicio 12 de condicional multiple" />
     <MESSAGE value="se agrego el ejercicio 11 de condicional simple" />
-    <option name="LAST_COMMIT_MESSAGE" value="se agrego el ejercicio 11 de condicional simple" />
+    <MESSAGE value="se agrego el ejercicio 13 de condicional doble&#10;&#10;(cherry picked from commit 36a9a3dfcdb099beb7b2402525f9ee86abed4b78)&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="se agrego el ejercicio 13 de condicional doble&#10;&#10;(cherry picked from commit 36a9a3dfcdb099beb7b2402525f9ee86abed4b78)&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://G:/Programacion/trabajo06/t06.aguilar.arroyo/aguilar/simples/ejercicio01.py">
@@ -345,9 +371,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simples/ejercicio09.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/simples/ejercicio07.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
@@ -413,8 +436,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dobles/ejercicio12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="476">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Programacion/trabajo06/t06.aguilar.arroyo/aguilar/dobles/ejercicio13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="44" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dobles/ejercicio13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
         </state>
       </provider>
     </entry>
